@@ -1,12 +1,5 @@
 # keto macro percentage calculator.
 
-#import math 
-
-
-#def round_up(n, decimals=0):
-#	multiplier = 10 ** decimals
-#	return math.ceil(n * multiplier) / multiplier 
-	
 
 print("------- E N T E R   M A C R O S ----------- " )
 
